@@ -1,0 +1,64 @@
+h1
+{
+	color: black, white;
+	font-size: 35px;
+	font-family: Comic Sans MS, Impact, Arial;
+	text-align: center;
+	background-color: #5B8B98
+}
+h2
+{
+	color: black, white;
+	margin: auto;
+	text-align: justify;
+	padding: 25px;
+	font-size: 20px
+}
+h3
+{
+	color: black, white;
+	text-align: justify;
+	font-family: Comic Sans MS, Impact, Arial;
+	font-size: 20px;
+}
+h4
+{
+	text-align: center;
+	font-family: Comic Sans MS, Impact, Arial;
+	color:black, white;
+}
+p
+{
+	color: black, white;
+	margin: auto;
+	text-align: justify;
+	padding: 12px;
+	font-size: 18px
+	font-weight:bold
+}
+body
+{
+	max-width: 900px;
+	margin: auto;
+
+  /* Ajoute un calque noir transparent à 50% par-dessus l'image */
+	background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("..//photos/ensemble1.jpg");
+  
+
+
+
+}
+nav
+{
+	max-width: 300 px;
+	font-family: Comic Sans MS, Impact, Arial;
+}
+a
+{
+	color:black, white;
+}
+img
+{
+	margin-left:60px
+	
+}
